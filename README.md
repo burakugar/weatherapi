@@ -20,8 +20,7 @@ If there is no city with the given name, the following exception will be execute
 
 When post mapping is executed, it takes appid for confirmation on OpenWeatherMap and city name.
 For example:
-appid:
-4c344d36ad5873f72159782522511528
+
 City name: Istanbul
 
 <img width="1419" alt="image" src="https://user-images.githubusercontent.com/50373019/184527835-4c7292a6-fbf3-4f96-895f-8c0918ee84b1.png">
