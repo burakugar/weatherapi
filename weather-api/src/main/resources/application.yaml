@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: local
+  springdoc:
+    swagger-ui:
+      disable-swagger-default-url: true
+server:
+  port: ${PORT:8024}
