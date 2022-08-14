@@ -1,6 +1,11 @@
 # weatherapi
 Weather Rest Api for openweathermap
 
+1. Install the maven dependincies inb pom.xml.
+2. Run the application with java 17 SDK.
+3. Open the swagger on :
+4. http://localhost:8024/swagger-ui/index.html#/city-controller
+
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/50373019/184527754-bcfb1cf5-a081-4d8b-bfc9-05ee0bb97cb6.png">
 
 There are 3 end points.
